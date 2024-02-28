@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618113381795",
+    "project_id": "bjpappdatabase",
+    "storage_bucket": "bjpappdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618113381795:android:fe249b8584cd4ed646d616",
+        "android_client_info": {
+          "package_name": "com.example.bjpadminbjp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3Om8mLpqTggxO2aqesZVs_hjmA9lcFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618113381795:android:91e1efe42f2183ba46d616",
+        "android_client_info": {
+          "package_name": "com.example.userbjp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3Om8mLpqTggxO2aqesZVs_hjmA9lcFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
